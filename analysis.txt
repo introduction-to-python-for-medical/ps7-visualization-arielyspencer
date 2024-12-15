@@ -1,1 +1,28 @@
+in addition to the commentary done in the python file i have created a 2,2
+table of graphs for the values of 
 
+skin:mass
+age:preg
+insulin:skin
+insulin:plasma
+
+these are the values that gave me the highest correlation on the correlation
+heat map
+
+in all but the age:preg graph we see a lot of values at x = 0. this is likely
+due to missing data or data accidently inputed as 0 or possibly data that is 
+actually 0.
+
+in both mass:skin and insulin:plas we can see an almost obvious correlation
+
+in the former this is probably due to the fact that the more fat you have
+(higher bmi) the more skin fold thickness you have
+
+in the latter -according to online sources- there is a correlation between
+plasma glucose concentration and insulin levels - they both work on glucose
+
+for skin:insu there does not seem to be an obvious visual relationship using the scatter plot
+
+for preg:age we see that there are obvious jumps up in the y values - this 
+would be because you cannot have a half pregnancy. In addition we can see a 
+slight rise in the number of pregnancies in correlation to age. This graph is not perfect however we are very unlikely to see a woman giving more than 10 births at the age of 20.
