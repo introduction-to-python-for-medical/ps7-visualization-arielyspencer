@@ -25,4 +25,6 @@ for skin:insu there does not seem to be an obvious visual relationship using the
 
 for preg:age we see that there are obvious jumps up in the y values - this 
 would be because you cannot have a half pregnancy. In addition we can see a 
-slight rise in the number of pregnancies in correlation to age. This graph is not perfect however we are very unlikely to see a woman giving more than 10 births at the age of 20.
+slight rise in the number of pregnancies in correlation to age. This graph 
+is not perfect however we are very unlikely to see a woman giving more than 10 
+births at the age of 20.
